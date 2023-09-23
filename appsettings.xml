@@ -1,0 +1,11 @@
+﻿<Companies>
+  <Microsoft>
+    <Employees>200000</Employees>
+  </Microsoft>
+  <Apple>
+    <Employees>100000</Employees>
+  </Apple>
+  <Google>
+    <Employees>250000</Employees>
+  </Google>
+</Companies>
